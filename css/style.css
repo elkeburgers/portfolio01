@@ -1,0 +1,47 @@
+*{
+    background: url(../images/bg-body.png);
+    background-repeat: repeat;
+}
+
+header{
+    background-color: cadetblue;
+    height: 10vh;
+}
+
+#logo{
+    border-radius: 50%;
+}
+
+.nav-link{
+    color: antiquewhite;
+}
+
+#banner{
+    height: 90vh;
+    position: relative;
+}
+#banner .container .row{
+    height: 90vh;
+}
+
+#about{
+    background-color: rgb(81, 135, 228);
+    height: 100vh;
+    color: #fff;
+}
+#about .container .row{
+    height: 100vh;
+}
+
+#box{
+    position: absolute;
+}
+
+
+#projects{
+    height: 100vh;
+}
+#projects .container .row{
+    height: 100vh;  
+}
+
